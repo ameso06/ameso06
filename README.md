@@ -27,7 +27,6 @@ Attirée d'abord par la criminologie, j'ai trouvé dans la cybersécurité un do
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-333?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-333?style=flat-square)
-![Samba](https://img.shields.io/badge/Samba-333?style=flat-square)
 ![SSH](https://img.shields.io/badge/SSH-333?style=flat-square)
 
 **Web et données**
@@ -61,4 +60,4 @@ Attirée d'abord par la criminologie, j'ai trouvé dans la cybersécurité un do
 
 ## Me contacter
 
-[Mail](mailto:sophiaamelia.alikhodja@edu.nexa.fr) · [Portfolio](https://ameso06.github.io)
+[Mail](mailto:sophiaamelia.alikhodja@edu.nexa.fr) · [LinkedIn](https://www.linkedin.com/in/sophia-ali-khodja-a79376328) · [Portfolio](https://ameso06.github.io)
